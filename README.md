@@ -336,6 +336,4 @@ export default ProjectsCard;
 #### Extra Challenge
 
 - setup projects in CMS
-#   W e b D e v - P o r t f o l i o 
- 
- 
+#
