@@ -1,3 +1,7 @@
+## [Source](https://github.com/john-smilga/react-course-v3/tree/main/10-tailwind-portfolio)
+
+## [Deployed Website](https://webdev-portfolio.onrender.com)
+
 #### Setup Vite and Tailwind
 
 [Tailwind Docs](https://tailwindcss.com/docs/guides/vite)
@@ -332,5 +336,6 @@ export default ProjectsCard;
 #### Extra Challenge
 
 - setup projects in CMS
-#   W e b D e v - P o r t f o l i o  
+#   W e b D e v - P o r t f o l i o 
+ 
  
