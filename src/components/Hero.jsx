@@ -13,11 +13,11 @@ const Hero = () => {
                 <p className='mt-2 text-lg text-slate-700 capitalize'>turning ideas into interactive reality</p>
 
                 <div className='flex gap-x-4 mt-4'>
-                    <a href="#">
+                    <a href="https://github.com/tangentveil" target='_blank'>
                         <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300'/>
                     </a>
 
-                    <a href="#">
+                    <a href="www.linkedin.com/in/anirudha-rajodiya-6356b5221" target='_blank'>
                         <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300'/>
                     </a>
 
