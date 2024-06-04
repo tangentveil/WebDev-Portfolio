@@ -17,7 +17,7 @@ const Hero = () => {
                         <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300'/>
                     </a>
 
-                    <a href="www.linkedin.com/in/anirudha-rajodiya-6356b5221" target='_blank'>
+                    <a href="https://www.linkedin.com/in/anirudha-rajodiya-6356b5221" target='_blank'>
                         <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300'/>
                     </a>
 
